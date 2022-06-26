@@ -16,6 +16,7 @@ DATA-228 Big Data Project to implement a chat to predict covid-19 symptoms using
 ![](assets/S3.png)
 
 ## Demo
+https://user-images.githubusercontent.com/11852869/175812445-426d6882-10d7-4dd3-a0e8-3f240ddb5563.mp4
 	
 ## How to start
 - Setup virtualenv if you want
